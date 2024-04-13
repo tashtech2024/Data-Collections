@@ -46,14 +46,14 @@ for (let i = 0; i < movies.length; i++) {
     console.log(movies[i]);
 }
 
-const newMovies = ['Caddyshack','Two can play that game', 'Scarface'];
+// const newMovies = ['Caddyshack','Two can play that game', 'Scarface'];
 
-console.log(movies);
+// console.log(movies); 
 
-movies[0];
-
-//     //  REDO BELOW === ///
+// movies[0] =
 // }
+
+//  REDO BELOW === ///
 // const myColors = ['red', 'blue', 'green'];
 // const yourColors = ['yellow', 'purple', 'pink'];
 
